@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @ming.title %>
+</p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @ming.content %>
+</p>
+
+<%= link_to 'Edit', edit_ming_path(@ming) %> |
+<%= link_to 'Back', mings_path %>

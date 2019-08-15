@@ -1,29 +1,28 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Posts</h1>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Content</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @posts.each do |post| %>
-      <tr>
-        <td><%= post.title %></td>
-        <td><%= post.content %></td>
-        <td><%= link_to 'Show', post %></td>
-        <td><%= link_to 'Edit', edit_post_path(post) %></td>
-        <td><%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
-
-<br>
-
-<%= link_to 'New Post', new_post_path %>
+<div class="post-cover" style="background-image: url(http://the-edit.co.kr/wp-content/uploads/2019/05/main_LGiceref00036.jpg); opacity: 0.6">
+</div>
+<div class="container ">
+<%= link_to '작성하기', new_post_path, class: "btn btn-primary" %>
+  <h1>Brunch</h1>
+  <div class="col-md-12">
+    <div class="row-md-4">
+      <% @posts.each do |post| %>
+        <div class="card card-position" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title"><%= post.title %></h5>
+            <%# <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> %>
+            <p class="card-text"><a href="<%= post.content %>"><%= post.content %></a></p>
+            <a href="<%= post.content %>" class="btn btn-primary">보러가기</a>
+            <%# <%= link_to '보러가기', post, class: "card-link" %>
+            <%= link_to '수정하기', edit_post_path(post), class: "card-link" %>
+            <%= link_to '삭제하기', post, method: :delete, data: { confirm: '삭제하시겠습니까?' }, class: "card-link" %>
+          </div>
+        </div>
+      <% end %>
+      <br>
+    </div>
+  </div>
+</div>
+    

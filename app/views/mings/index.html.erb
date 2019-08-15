@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Mings</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Content</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @mings.each do |ming| %>
+      <tr>
+        <td><%= ming.title %></td>
+        <td><%= ming.content %></td>
+        <td><%= link_to 'Show', ming %></td>
+        <td><%= link_to 'Edit', edit_ming_path(ming) %></td>
+        <td><%= link_to 'Destroy', ming, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Ming', new_ming_path %>
