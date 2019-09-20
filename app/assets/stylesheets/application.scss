@@ -12,6 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *= stub_active_admin
  */
 
 
+.card{
+  display: inline-block;
+}
