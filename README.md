@@ -17,3 +17,4 @@
 11월 15일 commit - NO
 11월 16일 commit - NO
 11월 17일 commit -YES
+11월 18일 commit -YES
