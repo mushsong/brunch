@@ -18,3 +18,8 @@
 11월 16일 commit - NO
 11월 17일 commit -YES
 11월 18일 commit -YES
+11월 19일 commit - NO
+11월 20일 commit - NO
+11월 21일 commit - NO
+11월 22일 commit - NO
+11월 23일 commit - YES
