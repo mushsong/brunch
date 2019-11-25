@@ -24,3 +24,4 @@
 11월 22일 commit - NO
 11월 23일 commit - YES
 11월 24일 commit - YES
+11월 25일 commit - YES
