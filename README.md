@@ -55,3 +55,4 @@
 12월 22일 commit - NO
 12월 23일 commit - NO
 12월 24일 commit - YES
+12월 25일 commit - YES
