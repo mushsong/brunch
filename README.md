@@ -55,4 +55,11 @@
 12월 22일 commit - NO
 12월 23일 commit - NO
 12월 24일 commit - YES
-12월 25일 commit - YES
+12월 25일 commit - NO
+12월 26일 commit - NO
+12월 27일 commit - NO
+12월 28일 commit - NO
+12월 29일 commit - NO
+12월 30일 commit - NO
+12월 31일 commit - NO
+2020/ 1월 1일 commit - YES
