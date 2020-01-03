@@ -63,3 +63,5 @@
 12월 30일 commit - NO
 12월 31일 commit - NO
 2020/ 1월 1일 commit - YES
+1월 2일 commit - NO
+1월 3일 commit - YES
