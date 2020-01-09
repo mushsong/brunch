@@ -68,3 +68,6 @@
 1월 4일 commit - YES
 1월 5일 commit - YES
 1월 6일 commit - YES
+1월 7일 commit - NO
+1월 8일 commit - NO
+1월 9일 commit - YES
