@@ -71,3 +71,4 @@
 1월 7일 commit - NO
 1월 8일 commit - NO
 1월 9일 commit - YES
+1월 10일 commit - YES
