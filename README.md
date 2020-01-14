@@ -75,3 +75,4 @@
 1월 11일 commit - YES
 1월 12일 commit - YES
 1월 13일 commit - YES
+1월 14일 commit - YES
