@@ -78,4 +78,7 @@
 1월 14일 commit - YES
 1월 15일 commit - YES
 1월 16일 commit - NO
-1월 16일 commit - YES
+1월 17일 commit - YES
+1월 18일 commit - NO
+1월 19일 commit - NO
+1월 20일 commit - YES
