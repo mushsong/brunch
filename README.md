@@ -89,3 +89,8 @@
 1월 25일 commit - NO
 1월 26일 commit - NO
 1월 27일 commit - YES
+1월 28일 commit - NO
+1월 29일 commit - NO
+1월 30일 commit - NO
+1월 31일 commit - NO
+2월 1일 commit - YES
