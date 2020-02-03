@@ -95,3 +95,4 @@
 1월 31일 commit - NO
 2월 1일 commit - YES
 2월 2일 commit - YES
+2월 3일 commit - YES
