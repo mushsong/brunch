@@ -98,3 +98,15 @@
 2월 3일 commit - YES
 2월 4일 commit - YES
 2월 5일 commit - YES
+2월 6일 commit - NO
+2월 7일 commit - NO
+2월 8일 commit - NO
+2월 9일 commit - NO
+2월 10일 commit - NO
+2월 11일 commit - NO
+2월 12일 commit - NO
+2월 13일 commit - NO
+2월 14일 commit - NO
+2월 15일 commit - NO
+2월 16일 commit - NO
+2월 17일 commit - YES
