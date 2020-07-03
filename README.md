@@ -121,3 +121,4 @@
 2월 25일 commit - YES
 2월 26일 commit - YES
 6월 6일 commit - YES
+7월 3일 commit - YES
