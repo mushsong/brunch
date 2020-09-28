@@ -133,3 +133,5 @@
 9월 18일 commit - YES
 9월 22일 commit - YES
 9월 23일 commit - YES
+9월 24일 commit - YES
+9월 28일 commit - YES
