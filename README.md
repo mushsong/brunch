@@ -135,3 +135,4 @@
 9월 23일 commit - YES
 9월 24일 commit - YES
 9월 28일 commit - YES
+10월 1일 commit - YES
