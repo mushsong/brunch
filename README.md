@@ -138,3 +138,4 @@
 10월 1일 commit - YES
 10월 3일 commit - YES
 10월 5일 commit - YES
+10월 6일 commit - YES
