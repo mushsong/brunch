@@ -145,3 +145,4 @@
 10월 26일 commit - YES
 10월 30일 commit - YES
 11월 11일 commit - YES
+11월 24일 commit - YES
