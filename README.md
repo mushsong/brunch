@@ -150,3 +150,4 @@
 12월 04일 commit - YES
 12월 13일 commit - YES
 12월 14일 commit - YES
+12월 15일 commit - YES
