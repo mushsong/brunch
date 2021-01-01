@@ -154,3 +154,4 @@
 12월 16일 commit - YES
 12월 21일 commit - YES
 12월 25일 commit - YES
+2021/ 01월 01일 commit - YES
