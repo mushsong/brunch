@@ -157,3 +157,4 @@
 2021/ 01월 01일 commit - YES
 01월 04일 commit - YES
 01월 07일 commit - YES
+01월 08일 commit - YES
