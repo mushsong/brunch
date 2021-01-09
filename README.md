@@ -158,3 +158,4 @@
 01월 04일 commit - YES
 01월 07일 commit - YES
 01월 08일 commit - YES
+01월 10일 commit - YES
