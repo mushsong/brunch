@@ -163,3 +163,4 @@
 01월 12일 commit - YES
 01월 14일 commit - YES
 01월 15일 commit - YES
+01월 16일 commit - YES
