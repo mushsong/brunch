@@ -161,8 +161,10 @@
 01월 10일 commit - YES
 01월 11일 commit - YES
 01월 12일 commit - YES
+01월 13일 commit - NO
 01월 14일 commit - YES
 01월 15일 commit - YES
 01월 16일 commit - YES
 01월 17일 commit - YES
+01월 18일 commit - NO
 01월 19일 commit - YES
