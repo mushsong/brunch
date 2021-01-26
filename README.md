@@ -175,3 +175,4 @@
 01월 24일 commit - YES
 01월 25일 commit - YES
 01월 26일 commit - YES
+01월 27일 commit - YES
