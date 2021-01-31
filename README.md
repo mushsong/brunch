@@ -179,3 +179,4 @@
 01월 28일 commit - YES
 01월 29일 commit - NO
 01월 30일 commit - YES
+01월 31일 commit - YES
