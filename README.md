@@ -191,3 +191,4 @@
 02월 09일 commit - YES
 02월 10일 commit - YES
 02월 11일 commit - YES
+02월 12일 commit - YES
