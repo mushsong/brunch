@@ -197,3 +197,5 @@
 02월 15일 commit - YES
 02월 16일 commit - YES
 02월 17일 commit - YES
+02월 18일 commit - NO
+02월 19일 commit - YES
