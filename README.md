@@ -203,3 +203,4 @@
 02월 21일 commit - YES
 02월 22일 commit - YES
 02월 23일 commit - YES
+02월 24일 commit - YES
