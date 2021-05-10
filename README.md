@@ -236,4 +236,13 @@
 04월 20일 commit - YES
 04월 21일 commit - YES
 05월 01일 commit - YES
+05월 02일 commit - NO
+05월 03일 commit - NO
+05월 04일 commit - NO
+05월 05일 commit - NO
+05월 06일 commit - NO
+05월 07일 commit - NO
+05월 08일 commit - NO
+05월 09일 commit - NO
 05월 10일 commit - YES
+05월 11일 commit - YES
