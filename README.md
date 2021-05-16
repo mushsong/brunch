@@ -246,3 +246,4 @@
 05월 09일 commit - NO
 05월 10일 commit - YES
 05월 11일 commit - YES
+05월 17일 commit - YES
