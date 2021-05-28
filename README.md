@@ -259,3 +259,4 @@
 05월 22일 commit - YES
 05월 23일 commit - YES
 05월 27일 commit - YES
+05월 29일 commit - YES
