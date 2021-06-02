@@ -263,3 +263,4 @@
 05월 30일 commit - YES
 05월 31일 commit - YES
 06월 01일 commit - YES
+06월 02일 commit - YES
