@@ -266,4 +266,6 @@
 06월 02일 commit - YES
 06월 03일 commit - YES
 06월 04일 commit - YES
+06월 05일 commit - NO
 06월 06일 commit - YES
+06월 07일 commit - YES
