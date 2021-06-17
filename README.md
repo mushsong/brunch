@@ -276,3 +276,5 @@
 06월 13일 commit - YES
 06월 14일 commit - NO
 06월 15일 commit - YES
+06월 16일 commit - NO
+06월 17일 commit - YES
