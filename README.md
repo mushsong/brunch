@@ -278,3 +278,4 @@
 06월 15일 commit - YES
 06월 16일 commit - NO
 06월 17일 commit - YES
+06월 21일 commit - YES
