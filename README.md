@@ -288,3 +288,4 @@
 07월 01일 commit - NO
 07월 02일 commit - YES
 07월 03일 commit - YES
+07월 05일 commit - YES
