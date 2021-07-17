@@ -297,3 +297,4 @@
 07월 12일 commit - YES
 07월 13일 commit - YES
 07월 16일 commit - YES
+07월 17일 commit - YES
