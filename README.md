@@ -300,3 +300,4 @@
 07월 17일 commit - YES
 07월 18일 commit - NO
 07월 19일 commit - YES
+07월 20일 commit - YES
